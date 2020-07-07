@@ -9,7 +9,7 @@
 title:       Emilio Carrion
 email:       'emcaryp@gmail.com'
 description: ''
-baseurl:     'emiliocarrion.com' # The subpath of your site, e.g. /blog
+baseurl:     '' # The subpath of your site, e.g. /blog
 url:         'http://emiliocarrion.github.io/' # The base hostname & protocol for your site
 twitter:     'https://twitter.com/emcarrio'
 github:      'https://github.com/EmilioCarrion'
